@@ -2,7 +2,9 @@ module.exports = function(grunt) {
   'use strict';
 
   var tasks = [
-    'grunt-contrib-jshing'
+    'grunt-contrib-jshint',
+    'grunt-contrib-watch',
+    'grunt-contrib-concat'
   ];
 
   var config = {};
