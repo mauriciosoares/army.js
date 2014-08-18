@@ -1,0 +1,23 @@
+{
+  "name": "army.js",
+  "version": "0.0.0",
+  "description": "Events for your application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/msodeveloper/army.js.git"
+  },
+  "keywords": [
+    "army.js",
+    "events"
+  ],
+  "author": "Mauricio Soares",
+  "license": "Beerware",
+  "bugs": {
+    "url": "https://github.com/msodeveloper/army.js/issues"
+  },
+  "homepage": "https://github.com/msodeveloper/army.js"
+}
