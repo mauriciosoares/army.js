@@ -49,5 +49,10 @@ module.exports = function(grunt) {
     }
   };
 
+  // =============================================
+  // config
+  grunt.initConfig(config);
+
+  // loads all tasks
   tasks.forEach(grunt.loadNpmTasks);
 };
